@@ -43,7 +43,7 @@ player cover 24 px radius
 .
 ├── SKILL.md                 # 技能入口：原则、约束、工作流、检查清单
 ├── README.md
-├── LICENSE                  # AGPL-3.0
+├── LICENSE                  # MIT
 ├── NOTICE.md                # 来源、字体/图标/封面边界
 ├── references/
 │   ├── tokens.md            # 调色板、强调色模式、字体、间距、圆角、对比度
@@ -141,7 +141,8 @@ assets/preview.html?theme=light&view=player&layout=split
 - 设计来源：**ArchoeraMusic**，Copyright (C) 2026 Archoera && BetaStudio2，上游采用 **AGPL-3.0-or-later**。
 - 本仓库是独立重述的 UI 设计规范，不包含应用源码、播放逻辑、MiSans 字体文件、图标字体、封面图或品牌素材。
 - `assets/preview-*.png` 是本仓库自己的 `preview.html` 截图，不是应用截图。
-- 本仓库以 **AGPL-3.0-or-later** 发布，详见 [`LICENSE`](LICENSE)；素材边界见 [`NOTICE.md`](NOTICE.md)。
+- 本仓库以 **MIT** 发布，详见 [`LICENSE`](LICENSE)；素材边界见 [`NOTICE.md`](NOTICE.md)。
+- 重分发时只需保留版权声明与许可证文本，可自由用于商业项目、闭源产品和 Agent Skill 合集。
 
 ---
 

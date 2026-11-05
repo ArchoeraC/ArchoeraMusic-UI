@@ -172,7 +172,7 @@ chrome, 34–40 in placeholders. Selected nav uses the filled variant.
 | `assets/tokens.json` | Machine-readable tokens |
 | `assets/tokens.css` | CSS variables + base music-ui recipes |
 | `assets/preview.html` | Dependency-free shell + player preview (theme and layout controls) |
-| `NOTICE.md` | Attribution, AGPL boundary, font/icon/cover licensing |
+| `NOTICE.md` | Attribution, license scope, font/icon/cover licensing |
 
 ## Anti-patterns
 
@@ -189,8 +189,9 @@ chrome, 34–40 in placeholders. Selected nav uses the filled variant.
 
 ---
 
-Origin: re-authored from the ArchoeraMusic interface (AGPL-3.0-or-later),
-including its player-layout and style-registry design notes. This is an
-independent visual specification, not a source-code extraction. No fonts, icon
-fonts, cover art or other assets are bundled. MiSans is free to use with
+Origin: re-authored from the ArchoeraMusic interface (upstream
+AGPL-3.0-or-later), including its player-layout and style-registry design notes.
+This repository is an independent visual specification, not a source-code
+extraction, and is released under the MIT License. No fonts, icon fonts, cover
+art or other assets are bundled. MiSans is free to use with
 attribution but may not be redistributed as a standalone font file.
